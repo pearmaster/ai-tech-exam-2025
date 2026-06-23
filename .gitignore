@@ -4,4 +4,4 @@ node_modules
 .opencode/package-lock.json
 .opencode/bun.lock
 .opencode/.gitignore
-pool_images/
+pool_images/document.xml
