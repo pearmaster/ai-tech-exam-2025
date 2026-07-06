@@ -1,0 +1,1634 @@
+{
+  "T1A01": {
+    "correct_answer": "C",
+    "reference": "97.1"
+  },
+  "T1A02": {
+    "correct_answer": "C",
+    "reference": "97.1"
+  },
+  "T1A03": {
+    "correct_answer": "B",
+    "reference": "97.119(b)(2)"
+  },
+  "T1A04": {
+    "correct_answer": "A",
+    "reference": "97.23"
+  },
+  "T1A05": {
+    "correct_answer": "C",
+    "reference": "97.7"
+  },
+  "T1A06": {
+    "correct_answer": "D",
+    "reference": "97.203(d)"
+  },
+  "T1A07": {
+    "correct_answer": "C",
+    "reference": "97.3(a)(41)"
+  },
+  "T1A08": {
+    "correct_answer": "B",
+    "reference": "97.3(a)(22)"
+  },
+  "T1A09": {
+    "correct_answer": "C",
+    "reference": "97.3(a)(22)"
+  },
+  "T1A10": {
+    "correct_answer": "C",
+    "reference": "97.407(a)"
+  },
+  "T1A11": {
+    "correct_answer": "B",
+    "reference": "97.101(d)"
+  },
+  "T1B01": {
+    "correct_answer": "C",
+    "reference": "97.301(e)"
+  },
+  "T1B02": {
+    "correct_answer": "B",
+    "reference": "97.301, 97.207(c)"
+  },
+  "T1B03": {
+    "correct_answer": "B",
+    "reference": "97.301(a)"
+  },
+  "T1B04": {
+    "correct_answer": "D",
+    "reference": "97.301(a)"
+  },
+  "T1B05": {
+    "correct_answer": "D",
+    "reference": "97.301, 97.305"
+  },
+  "T1B06": {
+    "correct_answer": "B",
+    "reference": "97.301(e), 97.305"
+  },
+  "T1B07": {
+    "correct_answer": "A",
+    "reference": "97.305(a), (c)"
+  },
+  "T1B08": {
+    "correct_answer": "A",
+    "reference": "97.303"
+  },
+  "T1B09": {
+    "correct_answer": "D",
+    "reference": "97.101(a), 97.301(a-e)"
+  },
+  "T1B10": {
+    "correct_answer": "C",
+    "reference": "97.305(c)"
+  },
+  "T1B11": {
+    "correct_answer": "A",
+    "reference": "97.313"
+  },
+  "T1B12": {
+    "correct_answer": "D",
+    "reference": "97.313(b)"
+  },
+  "T1C01": {
+    "correct_answer": "D",
+    "reference": "97.9(a), 97.17(a)"
+  },
+  "T1C02": {
+    "correct_answer": "D",
+    "reference": "97.19"
+  },
+  "T1C03": {
+    "correct_answer": "A",
+    "reference": "97.117"
+  },
+  "T1C04": {
+    "correct_answer": "B",
+    "reference": "97.23"
+  },
+  "T1C05": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T1C06": {
+    "correct_answer": "D",
+    "reference": "97.5(a)(2), 97.11(a)"
+  },
+  "T1C07": {
+    "correct_answer": "B",
+    "reference": "97.21, 1.949"
+  },
+  "T1C08": {
+    "correct_answer": "C",
+    "reference": "97.25"
+  },
+  "T1C09": {
+    "correct_answer": "A",
+    "reference": "97.21(a)(b)"
+  },
+  "T1C10": {
+    "correct_answer": "C",
+    "reference": "97.5a"
+  },
+  "T1C11": {
+    "correct_answer": "D",
+    "reference": "97.21(b)"
+  },
+  "T1D01": {
+    "correct_answer": "A",
+    "reference": "97.111(a)(1)"
+  },
+  "T1D02": {
+    "correct_answer": "B",
+    "reference": "97.113(b), 97.111(b)"
+  },
+  "T1D03": {
+    "correct_answer": "C",
+    "reference": "97.211(b), 97.215(b), 97.113(a)(4)"
+  },
+  "T1D04": {
+    "correct_answer": "A",
+    "reference": "97.113(a)(4), 97.113(c)"
+  },
+  "T1D05": {
+    "correct_answer": "D",
+    "reference": "97.113(a)(3)(ii)"
+  },
+  "T1D06": {
+    "correct_answer": "B",
+    "reference": "97.113(a)(4)"
+  },
+  "T1D07": {
+    "correct_answer": "A",
+    "reference": "97.113(d), 97.201(e)"
+  },
+  "T1D08": {
+    "correct_answer": "B",
+    "reference": "97.113(a)(3)(iii)"
+  },
+  "T1D09": {
+    "correct_answer": "A",
+    "reference": "97.113(5)(b)"
+  },
+  "T1D10": {
+    "correct_answer": "D",
+    "reference": "97.3(a)(10)"
+  },
+  "T1D11": {
+    "correct_answer": "D",
+    "reference": "97.215"
+  },
+  "T1E01": {
+    "correct_answer": "D",
+    "reference": "97.7(a)"
+  },
+  "T1E02": {
+    "correct_answer": "D",
+    "reference": "97.301, 97.207(c)"
+  },
+  "T1E03": {
+    "correct_answer": "A",
+    "reference": "97.103(b)"
+  },
+  "T1E04": {
+    "correct_answer": "D",
+    "reference": "97.103(b)"
+  },
+  "T1E05": {
+    "correct_answer": "C",
+    "reference": "97.3(a)(14)"
+  },
+  "T1E06": {
+    "correct_answer": "A",
+    "reference": "97.301"
+  },
+  "T1E07": {
+    "correct_answer": "D",
+    "reference": "97.103(a)"
+  },
+  "T1E08": {
+    "correct_answer": "A",
+    "reference": "97.3(a)(6), 97.205(d)"
+  },
+  "T1E09": {
+    "correct_answer": "D",
+    "reference": "97.109(c)"
+  },
+  "T1E10": {
+    "correct_answer": "B",
+    "reference": "97.3(a)(39)"
+  },
+  "T1E11": {
+    "correct_answer": "D",
+    "reference": "97.3(a)(13)"
+  },
+  "T1F01": {
+    "correct_answer": "B",
+    "reference": "97.103(c)"
+  },
+  "T1F02": {
+    "correct_answer": "C",
+    "reference": "97.119(a)"
+  },
+  "T1F03": {
+    "correct_answer": "D",
+    "reference": "97.119(a)"
+  },
+  "T1F04": {
+    "correct_answer": "C",
+    "reference": "97.119(b)(2)"
+  },
+  "T1F05": {
+    "correct_answer": "B",
+    "reference": "97.119(b)(2)"
+  },
+  "T1F06": {
+    "correct_answer": "D",
+    "reference": "97.119(c)"
+  },
+  "T1F07": {
+    "correct_answer": "B",
+    "reference": "97.115(a)(2)"
+  },
+  "T1F08": {
+    "correct_answer": "A",
+    "reference": "97.3(a)(47)"
+  },
+  "T1F09": {
+    "correct_answer": "C",
+    "reference": "97.3(a)(40)"
+  },
+  "T1F10": {
+    "correct_answer": "A",
+    "reference": "97.205(g)"
+  },
+  "T1F11": {
+    "correct_answer": "B",
+    "reference": "97.5(b)(2)"
+  },
+  "T2A01": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T2A02": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T2A03": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T2A04": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T2A05": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T2A06": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T2A07": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T2A08": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T2A09": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T2A10": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T2A11": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T2B01": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T2B02": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T2B03": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T2B04": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T2B05": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T2B06": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T2B07": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T2B08": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T2B09": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T2B10": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T2B11": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T2B12": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T2B13": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T2B14": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T2C01": {
+    "correct_answer": "D",
+    "reference": "97.103(a)"
+  },
+  "T2C02": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T2C03": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T2C04": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T2C05": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T2C06": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T2C07": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T2C08": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T2C09": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T2C10": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T2C11": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T2C12": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T3A01": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T3A02": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T3A03": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T3A04": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T3A05": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T3A06": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T3A07": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T3A08": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T3A09": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T3A10": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T3A11": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T3A12": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T3B01": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T3B02": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T3B03": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T3B04": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T3B05": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T3B06": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T3B07": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T3B08": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T3B09": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T3B10": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T3B11": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T3B12": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T3C01": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T3C02": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T3C03": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T3C04": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T3C05": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T3C06": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T3C07": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T3C08": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T3C09": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T3C10": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T3C11": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T4A01": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T4A02": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T4A03": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T4A04": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T4A05": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T4A06": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T4A07": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T4A08": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T4A09": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T4A10": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T4A11": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T4A12": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T4B01": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T4B02": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T4B03": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T4B04": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T4B05": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T4B06": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T4B07": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T4B08": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T4B09": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T4B10": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T4B11": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T5A01": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T5A02": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T5A03": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T5A04": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T5A05": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T5A06": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T5A07": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T5A08": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T5A09": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T5A10": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T5A11": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T5B01": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T5B02": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T5B03": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T5B04": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T5B05": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T5B06": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T5B07": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T5B08": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T5B09": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T5B10": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T5B11": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T5B12": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T5B13": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T5C01": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T5C02": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T5C03": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T5C04": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T5C05": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T5C06": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T5C07": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T5C08": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T5C09": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T5C10": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T5C11": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T5C12": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T5D01": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T5D02": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T5D03": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T5D04": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T5D05": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T5D06": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T5D07": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T5D08": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T5D09": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T5D10": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T5D11": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T5D12": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T5D13": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T5D14": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T6A01": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T6A02": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T6A03": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T6A04": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T6A05": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T6A06": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T6A07": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T6A08": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T6A09": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T6A10": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T6A11": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T6B01": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T6B02": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T6B03": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T6B04": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T6B05": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T6B06": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T6B07": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T6B08": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T6B09": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T6B10": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T6B11": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T6B12": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T6C01": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T6C02": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T6C03": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T6C04": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T6C05": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T6C06": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T6C07": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T6C08": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T6C09": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T6C10": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T6C11": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T6C12": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T6D01": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T6D02": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T6D03": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T6D04": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T6D05": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T6D06": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T6D07": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T6D08": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T6D09": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T6D10": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T6D11": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T7A01": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T7A02": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T7A03": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T7A04": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T7A05": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T7A06": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T7A07": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T7A08": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T7A09": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T7A10": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T7A11": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T7B01": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T7B02": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T7B03": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T7B04": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T7B05": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T7B06": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T7B07": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T7B08": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T7B09": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T7B10": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T7B11": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T7C01": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T7C02": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T7C03": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T7C04": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T7C05": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T7C06": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T7C07": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T7C08": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T7C09": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T7C10": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T7C11": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T7D01": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T7D02": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T7D03": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T7D04": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T7D05": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T7D06": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T7D07": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T7D08": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T7D09": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T7D10": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T7D11": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T8A01": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T8A02": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T8A03": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T8A04": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T8A05": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T8A06": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T8A07": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T8A08": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T8A09": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T8A10": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T8A11": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T8A12": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T8B01": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T8B02": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T8B03": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T8B04": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T8B05": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T8B06": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T8B07": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T8B08": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T8B09": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T8B10": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T8B11": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T8B12": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T8C01": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T8C02": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T8C03": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T8C04": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T8C05": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T8C06": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T8C07": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T8C08": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T8C09": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T8C10": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T8C11": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T8D01": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T8D02": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T8D03": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T8D04": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T8D05": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T8D06": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T8D07": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T8D08": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T8D09": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T8D10": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T8D11": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T8D12": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T9A01": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T9A02": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T9A03": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T9A04": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T9A05": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T9A06": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T9A07": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T9A08": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T9A09": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T9A10": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T9A11": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T9B01": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T9B02": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T9B03": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T9B04": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T9B05": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T9B06": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T9B07": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T9B08": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T9B09": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T9B10": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T9B11": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T9B12": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T0A01": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T0A02": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T0A03": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T0A04": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T0A05": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T0A06": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T0A07": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T0A08": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T0A09": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T0A10": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T0A11": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T0A12": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T0B01": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T0B02": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T0B03": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T0B04": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T0B05": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T0B06": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T0B07": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T0B08": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T0B09": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T0B10": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T0B11": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T0C01": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T0C02": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T0C03": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T0C04": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T0C05": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T0C06": {
+    "correct_answer": "D",
+    "reference": ""
+  },
+  "T0C07": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T0C08": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T0C09": {
+    "correct_answer": "B",
+    "reference": ""
+  },
+  "T0C10": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T0C11": {
+    "correct_answer": "C",
+    "reference": ""
+  },
+  "T0C12": {
+    "correct_answer": "A",
+    "reference": ""
+  },
+  "T0C13": {
+    "correct_answer": "B",
+    "reference": ""
+  }
+}

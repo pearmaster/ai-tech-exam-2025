@@ -17,7 +17,6 @@
           "questions": [
             {
               "id": "T1A01",
-              "correct_answer": "C",
               "reference": "97.1",
               "question": "Which of the following is part of the Basis and Purpose of the Amateur Radio Service?",
               "answers": {
@@ -29,7 +28,6 @@
             },
             {
               "id": "T1A02",
-              "correct_answer": "C",
               "reference": "97.1",
               "question": "Which agency regulates and enforces the rules for the Amateur Radio Service in the United States?",
               "answers": {
@@ -41,7 +39,6 @@
             },
             {
               "id": "T1A03",
-              "correct_answer": "B",
               "reference": "97.119(b)(2)",
               "question": "What do the FCC rules state regarding the use of a phonetic alphabet for station identification in the Amateur Radio Service?",
               "answers": {
@@ -53,7 +50,6 @@
             },
             {
               "id": "T1A04",
-              "correct_answer": "A",
               "reference": "97.23",
               "question": "How do you receive official notification of your new license and call sign after passing the exam?",
               "answers": {
@@ -65,7 +61,6 @@
             },
             {
               "id": "T1A05",
-              "correct_answer": "C",
               "reference": "97.7",
               "question": "What proves that the FCC has issued an operator/primary license grant?",
               "answers": {
@@ -77,7 +72,6 @@
             },
             {
               "id": "T1A06",
-              "correct_answer": "D",
               "reference": "97.203(d)",
               "question": "On which of the following HF frequencies can automatically controlled amateur propagation beacons be found?",
               "answers": {
@@ -89,7 +83,6 @@
             },
             {
               "id": "T1A07",
-              "correct_answer": "C",
               "reference": "97.3(a)(41)",
               "question": "What is the FCC Part 97 definition of a space station?",
               "answers": {
@@ -101,7 +94,6 @@
             },
             {
               "id": "T1A08",
-              "correct_answer": "B",
               "reference": "97.3(a)(22)",
               "question": "Who recommends transmit/receive channels for repeater and auxiliary stations?",
               "answers": {
@@ -113,7 +105,6 @@
             },
             {
               "id": "T1A09",
-              "correct_answer": "C",
               "reference": "97.3(a)(22)",
               "question": "Who selects a Frequency Coordinator?",
               "answers": {
@@ -125,7 +116,6 @@
             },
             {
               "id": "T1A10",
-              "correct_answer": "C",
               "reference": "97.407(a)",
               "question": "Besides an FCC-issued amateur operator license, what is required to be the control operator of a Radio Amateur Civil Emergency Service (RACES) Station?",
               "answers": {
@@ -137,7 +127,6 @@
             },
             {
               "id": "T1A11",
-              "correct_answer": "B",
               "reference": "97.101(d)",
               "question": "Which of the following is prohibited?",
               "answers": {
@@ -157,7 +146,6 @@
           "questions": [
             {
               "id": "T1B01",
-              "correct_answer": "C",
               "reference": "97.301(e)",
               "question": "Which of the following frequency ranges are available for phone operation by Technician licensees?",
               "answers": {
@@ -169,7 +157,6 @@
             },
             {
               "id": "T1B02",
-              "correct_answer": "B",
               "reference": "97.301, 97.207(c)",
               "question": "Which of the following U.S. amateur radio operators are allowed to contact the International Space Station (ISS) on VHF bands?",
               "answers": {
@@ -181,7 +168,6 @@
             },
             {
               "id": "T1B03",
-              "correct_answer": "B",
               "reference": "97.301(a)",
               "question": "Which frequency is in the 6-meter amateur band?",
               "answers": {
@@ -193,7 +179,6 @@
             },
             {
               "id": "T1B04",
-              "correct_answer": "D",
               "reference": "97.301(a)",
               "question": "Which amateur band includes 146.52 MHz?",
               "answers": {
@@ -205,7 +190,6 @@
             },
             {
               "id": "T1B05",
-              "correct_answer": "D",
               "reference": "97.301, 97.305",
               "question": "Which of the following bands include frequencies where Technicians are authorized to use digital modes such as FT8?",
               "answers": {
@@ -217,7 +201,6 @@
             },
             {
               "id": "T1B06",
-              "correct_answer": "B",
               "reference": "97.301(e), 97.305",
               "question": "On which HF bands does a Technician class operator have phone privileges?",
               "answers": {
@@ -229,7 +212,6 @@
             },
             {
               "id": "T1B07",
-              "correct_answer": "A",
               "reference": "97.305(a), (c)",
               "question": "Which of the following VHF/UHF band segments are limited to CW only?",
               "answers": {
@@ -241,7 +223,6 @@
             },
             {
               "id": "T1B08",
-              "correct_answer": "A",
               "reference": "97.303",
               "question": "How are US amateurs restricted in segments of bands where the Amateur Radio Service is secondary?",
               "answers": {
@@ -253,7 +234,6 @@
             },
             {
               "id": "T1B09",
-              "correct_answer": "D",
               "reference": "97.101(a), 97.301(a-e)",
               "question": "Why should you not set your transmit frequency to be exactly at the edge of an amateur band or sub-band?",
               "answers": {
@@ -265,7 +245,6 @@
             },
             {
               "id": "T1B10",
-              "correct_answer": "C",
               "reference": "97.305(c)",
               "question": "Where may SSB phone be used in amateur bands above 50 MHz?",
               "answers": {
@@ -277,7 +256,6 @@
             },
             {
               "id": "T1B11",
-              "correct_answer": "A",
               "reference": "97.313",
               "question": "What is the maximum peak envelope power output for Technician class operators in their HF band segments?",
               "answers": {
@@ -289,7 +267,6 @@
             },
             {
               "id": "T1B12",
-              "correct_answer": "D",
               "reference": "97.313(b)",
               "question": "Except for some specific restrictions, what is the maximum peak envelope power output for Technician class operators using frequencies above 30 MHz?",
               "answers": {
@@ -309,7 +286,6 @@
           "questions": [
             {
               "id": "T1C01",
-              "correct_answer": "D",
               "reference": "97.9(a), 97.17(a)",
               "question": "For which classes of amateur radio licenses does the FCC currently issue new licenses?",
               "answers": {
@@ -321,7 +297,6 @@
             },
             {
               "id": "T1C02",
-              "correct_answer": "D",
               "reference": "97.19",
               "question": "Who may select a desired call sign under the vanity call sign rules?",
               "answers": {
@@ -333,7 +308,6 @@
             },
             {
               "id": "T1C03",
-              "correct_answer": "A",
               "reference": "97.117",
               "question": "What types of international communications are FCC-licensed amateur radio stations permitted to make?",
               "answers": {
@@ -345,7 +319,6 @@
             },
             {
               "id": "T1C04",
-              "correct_answer": "B",
               "reference": "97.23",
               "question": "What may happen if the FCC is unable to reach you by email?",
               "answers": {
@@ -357,7 +330,6 @@
             },
             {
               "id": "T1C05",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which of the following is a valid Group D call sign format for Technician class?",
               "answers": {
@@ -369,7 +341,6 @@
             },
             {
               "id": "T1C06",
-              "correct_answer": "D",
               "reference": "97.5(a)(2), 97.11(a)",
               "question": "Which of the following statements is true about using your amateur radio license when operating aboard a vessel or craft in international waters?",
               "answers": {
@@ -381,7 +352,6 @@
             },
             {
               "id": "T1C07",
-              "correct_answer": "B",
               "reference": "97.21, 1.949",
               "question": "How long before the expiration date may an amateur radio license renewal be requested?",
               "answers": {
@@ -393,7 +363,6 @@
             },
             {
               "id": "T1C08",
-              "correct_answer": "C",
               "reference": "97.25",
               "question": "What is the normal term for an FCC-issued amateur radio license?",
               "answers": {
@@ -405,7 +374,6 @@
             },
             {
               "id": "T1C09",
-              "correct_answer": "A",
               "reference": "97.21(a)(b)",
               "question": "What is the grace period for renewal if an amateur license expires?",
               "answers": {
@@ -417,7 +385,6 @@
             },
             {
               "id": "T1C10",
-              "correct_answer": "C",
               "reference": "97.5a",
               "question": "How soon after passing the examination for your first amateur radio license may you transmit on the amateur radio bands?",
               "answers": {
@@ -429,7 +396,6 @@
             },
             {
               "id": "T1C11",
-              "correct_answer": "D",
               "reference": "97.21(b)",
               "question": "If your license has expired and is still within the allowable grace period, may you continue to transmit on the amateur radio bands?",
               "answers": {
@@ -449,7 +415,6 @@
           "questions": [
             {
               "id": "T1D01",
-              "correct_answer": "A",
               "reference": "97.111(a)(1)",
               "question": "With which countries are FCC-licensed amateur radio stations prohibited from exchanging communications?",
               "answers": {
@@ -461,7 +426,6 @@
             },
             {
               "id": "T1D02",
-              "correct_answer": "B",
               "reference": "97.113(b), 97.111(b)",
               "question": "Under which of the following circumstances are one-way transmissions by an amateur station prohibited?",
               "answers": {
@@ -473,7 +437,6 @@
             },
             {
               "id": "T1D03",
-              "correct_answer": "C",
               "reference": "97.211(b), 97.215(b), 97.113(a)(4)",
               "question": "When is it permissible to transmit messages encoded to obscure their meaning?",
               "answers": {
@@ -485,7 +448,6 @@
             },
             {
               "id": "T1D04",
-              "correct_answer": "A",
               "reference": "97.113(a)(4), 97.113(c)",
               "question": "Under what conditions is an amateur station authorized to transmit music using a phone emission?",
               "answers": {
@@ -497,7 +459,6 @@
             },
             {
               "id": "T1D05",
-              "correct_answer": "D",
               "reference": "97.113(a)(3)(ii)",
               "question": "When may amateur radio operators use their stations to notify other amateurs of the availability of equipment for sale or trade?",
               "answers": {
@@ -509,7 +470,6 @@
             },
             {
               "id": "T1D06",
-              "correct_answer": "B",
               "reference": "97.113(a)(4)",
               "question": "What, if any, are the restrictions concerning transmission of language that may be considered indecent or obscene?",
               "answers": {
@@ -521,7 +481,6 @@
             },
             {
               "id": "T1D07",
-              "correct_answer": "A",
               "reference": "97.113(d), 97.201(e)",
               "question": "Which of the following is an example of an auxiliary station?",
               "answers": {
@@ -533,7 +492,6 @@
             },
             {
               "id": "T1D08",
-              "correct_answer": "B",
               "reference": "97.113(a)(3)(iii)",
               "question": "In which of the following circumstances may the control operator of an amateur station receive compensation for operating that station?",
               "answers": {
@@ -545,7 +503,6 @@
             },
             {
               "id": "T1D09",
-              "correct_answer": "A",
               "reference": "97.113(5)(b)",
               "question": "When may amateur stations transmit information in support of broadcasting, program production, or news gathering, assuming no other means is available?",
               "answers": {
@@ -557,7 +514,6 @@
             },
             {
               "id": "T1D10",
-              "correct_answer": "D",
               "reference": "97.3(a)(10)",
               "question": "How does the FCC define broadcasting for the Amateur Radio Service?",
               "answers": {
@@ -569,7 +525,6 @@
             },
             {
               "id": "T1D11",
-              "correct_answer": "D",
               "reference": "97.215",
               "question": "When may an amateur station transmit without identifying on the air?",
               "answers": {
@@ -589,7 +544,6 @@
           "questions": [
             {
               "id": "T1E01",
-              "correct_answer": "D",
               "reference": "97.7(a)",
               "question": "When may an amateur station transmit without a control operator?",
               "answers": {
@@ -601,7 +555,6 @@
             },
             {
               "id": "T1E02",
-              "correct_answer": "D",
               "reference": "97.301, 97.207(c)",
               "question": "Who may be the control operator of a station communicating through an amateur satellite or space station?",
               "answers": {
@@ -613,7 +566,6 @@
             },
             {
               "id": "T1E03",
-              "correct_answer": "A",
               "reference": "97.103(b)",
               "question": "Who must designate the station control operator?",
               "answers": {
@@ -625,7 +577,6 @@
             },
             {
               "id": "T1E04",
-              "correct_answer": "D",
               "reference": "97.103(b)",
               "question": "What determines the transmitting frequency privileges of an amateur station?",
               "answers": {
@@ -637,7 +588,6 @@
             },
             {
               "id": "T1E05",
-              "correct_answer": "C",
               "reference": "97.3(a)(14)",
               "question": "What is an amateur station’s control point?",
               "answers": {
@@ -649,7 +599,6 @@
             },
             {
               "id": "T1E06",
-              "correct_answer": "A",
               "reference": "97.301",
               "question": "When, other than during an emergency, may a Technician class licensee be the control operator of a station operating in an Amateur Extra Class band segment?",
               "answers": {
@@ -661,7 +610,6 @@
             },
             {
               "id": "T1E07",
-              "correct_answer": "D",
               "reference": "97.103(a)",
               "question": "When the control operator is not the station licensee, who is responsible for the proper operation of the station?",
               "answers": {
@@ -673,7 +621,6 @@
             },
             {
               "id": "T1E08",
-              "correct_answer": "A",
               "reference": "97.3(a)(6), 97.205(d)",
               "question": "Which of the following is an example of automatic control?",
               "answers": {
@@ -685,7 +632,6 @@
             },
             {
               "id": "T1E09",
-              "correct_answer": "D",
               "reference": "97.109(c)",
               "question": "Which amateur stations may be remotely controlled?",
               "answers": {
@@ -697,7 +643,6 @@
             },
             {
               "id": "T1E10",
-              "correct_answer": "B",
               "reference": "97.3(a)(39)",
               "question": "Which of the following is an example of remote control as defined in Part 97?",
               "answers": {
@@ -709,7 +654,6 @@
             },
             {
               "id": "T1E11",
-              "correct_answer": "D",
               "reference": "97.3(a)(13)",
               "question": "What is a control operator as defined in Part 97?",
               "answers": {
@@ -729,7 +673,6 @@
           "questions": [
             {
               "id": "T1F01",
-              "correct_answer": "B",
               "reference": "97.103(c)",
               "question": "When must the station licensee make the station and the station records available for inspection?",
               "answers": {
@@ -741,7 +684,6 @@
             },
             {
               "id": "T1F02",
-              "correct_answer": "C",
               "reference": "97.119(a)",
               "question": "How often must you identify with your FCC-assigned call sign when using tactical call signs such as “Race Headquarters”?",
               "answers": {
@@ -753,7 +695,6 @@
             },
             {
               "id": "T1F03",
-              "correct_answer": "D",
               "reference": "97.119(a)",
               "question": "When are you required to transmit your assigned call sign?",
               "answers": {
@@ -765,7 +706,6 @@
             },
             {
               "id": "T1F04",
-              "correct_answer": "C",
               "reference": "97.119(b)(2)",
               "question": "What language must you use for identification when using a phone emission?",
               "answers": {
@@ -777,7 +717,6 @@
             },
             {
               "id": "T1F05",
-              "correct_answer": "B",
               "reference": "97.119(b)(2)",
               "question": "What method of call sign identification is required for a station transmitting phone signals?",
               "answers": {
@@ -789,7 +728,6 @@
             },
             {
               "id": "T1F06",
-              "correct_answer": "D",
               "reference": "97.119(c)",
               "question": "Which of the following self-assigned indicators are acceptable when using a phone transmission?",
               "answers": {
@@ -801,7 +739,6 @@
             },
             {
               "id": "T1F07",
-              "correct_answer": "B",
               "reference": "97.115(a)(2)",
               "question": "Which of the following restrictions apply when a non-licensed person speaks to a foreign amateur radio station via a station under the control of an FCC-licensed amateur radio operator?",
               "answers": {
@@ -813,7 +750,6 @@
             },
             {
               "id": "T1F08",
-              "correct_answer": "A",
               "reference": "97.3(a)(47)",
               "question": "What is the definition of third-party communications?",
               "answers": {
@@ -825,7 +761,6 @@
             },
             {
               "id": "T1F09",
-              "correct_answer": "C",
               "reference": "97.3(a)(40)",
               "question": "What type of amateur station simultaneously retransmits the signal of another amateur station on a different channel or channels?",
               "answers": {
@@ -837,7 +772,6 @@
             },
             {
               "id": "T1F10",
-              "correct_answer": "A",
               "reference": "97.205(g)",
               "question": "Who is accountable if a repeater inadvertently retransmits communications that violate the FCC rules?",
               "answers": {
@@ -849,7 +783,6 @@
             },
             {
               "id": "T1F11",
-              "correct_answer": "B",
               "reference": "97.5(b)(2)",
               "question": "Which of the following is a requirement for the issuance of a club station license grant?",
               "answers": {
@@ -875,7 +808,6 @@
           "questions": [
             {
               "id": "T2A01",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is a common repeater frequency offset in the 2-meter band?",
               "answers": {
@@ -887,7 +819,6 @@
             },
             {
               "id": "T2A02",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is the national calling frequency for FM simplex operations in the 2-meter band?",
               "answers": {
@@ -899,7 +830,6 @@
             },
             {
               "id": "T2A03",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is a common repeater frequency offset in the 70-centimeter band?",
               "answers": {
@@ -911,7 +841,6 @@
             },
             {
               "id": "T2A04",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is an appropriate way to call another station on a repeater if you know the other station's call sign?",
               "answers": {
@@ -923,7 +852,6 @@
             },
             {
               "id": "T2A05",
-              "correct_answer": "C",
               "reference": "",
               "question": "How should you respond to a station calling CQ?",
               "answers": {
@@ -935,7 +863,6 @@
             },
             {
               "id": "T2A06",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is an effective way to seek a call from any phone station when not using a repeater?",
               "answers": {
@@ -947,7 +874,6 @@
             },
             {
               "id": "T2A07",
-              "correct_answer": "A",
               "reference": "",
               "question": "What does the term \"repeater offset\" mean?",
               "answers": {
@@ -959,7 +885,6 @@
             },
             {
               "id": "T2A08",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is the meaning of the procedural signal “CQ”?",
               "answers": {
@@ -971,7 +896,6 @@
             },
             {
               "id": "T2A09",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which of the following is a customary way to indicate a station is listening on a repeater and looking for a contact?",
               "answers": {
@@ -983,7 +907,6 @@
             },
             {
               "id": "T2A10",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is a band plan, beyond the privileges established by the FCC?",
               "answers": {
@@ -995,7 +918,6 @@
             },
             {
               "id": "T2A11",
-              "correct_answer": "C",
               "reference": "",
               "question": "What term describes an amateur station that is transmitting and receiving on the same frequency?",
               "answers": {
@@ -1015,7 +937,6 @@
           "questions": [
             {
               "id": "T2B01",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is the purpose of the reverse function on a VHF/UHF transceiver?",
               "answers": {
@@ -1027,7 +948,6 @@
             },
             {
               "id": "T2B02",
-              "correct_answer": "D",
               "reference": "",
               "question": "What term describes the use of a sub-audible tone transmitted along with normal voice audio to open the squelch of a receiver?",
               "answers": {
@@ -1039,7 +959,6 @@
             },
             {
               "id": "T2B03",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which of the following describes a linked repeater network?",
               "answers": {
@@ -1051,7 +970,6 @@
             },
             {
               "id": "T2B04",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which of the following could be the reason you are unable to access a repeater whose output you can hear?",
               "answers": {
@@ -1063,7 +981,6 @@
             },
             {
               "id": "T2B05",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following would cause your FM transmission audio to drop out on voice peaks?",
               "answers": {
@@ -1075,7 +992,6 @@
             },
             {
               "id": "T2B06",
-              "correct_answer": "A",
               "reference": "",
               "question": "What type of signaling to a repeater uses two simultaneous audio tones?",
               "answers": {
@@ -1087,7 +1003,6 @@
             },
             {
               "id": "T2B07",
-              "correct_answer": "C",
               "reference": "",
               "question": "How can you join a digital repeater’s “talkgroup”?",
               "answers": {
@@ -1099,7 +1014,6 @@
             },
             {
               "id": "T2B08",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which of the following applies when two stations transmitting on the same frequency interfere with each other?",
               "answers": {
@@ -1111,7 +1025,6 @@
             },
             {
               "id": "T2B09",
-              "correct_answer": "A",
               "reference": "",
               "question": "Why are simplex channels designated in the VHF/UHF band plans?",
               "answers": {
@@ -1123,7 +1036,6 @@
             },
             {
               "id": "T2B10",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which Q signal indicates that you are receiving interference from other stations?",
               "answers": {
@@ -1135,7 +1047,6 @@
             },
             {
               "id": "T2B11",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which Q signal indicates that you are changing frequency?",
               "answers": {
@@ -1147,7 +1058,6 @@
             },
             {
               "id": "T2B12",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is the digital color code used on DMR repeater systems?",
               "answers": {
@@ -1159,7 +1069,6 @@
             },
             {
               "id": "T2B13",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is the purpose of a squelch function?",
               "answers": {
@@ -1171,7 +1080,6 @@
             },
             {
               "id": "T2B14",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which of the following is a “talkgroup”?",
               "answers": {
@@ -1191,7 +1099,6 @@
           "questions": [
             {
               "id": "T2C01",
-              "correct_answer": "D",
               "reference": "97.103(a)",
               "question": "When do the FCC Part 97 Amateur Radio Service rules NOT apply to the operation of an amateur station?",
               "answers": {
@@ -1203,7 +1110,6 @@
             },
             {
               "id": "T2C02",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following are typical duties of a Net Control Station?",
               "answers": {
@@ -1215,7 +1121,6 @@
             },
             {
               "id": "T2C03",
-              "correct_answer": "C",
               "reference": "",
               "question": "What technique is used to ensure that voice messages containing unusual words are received correctly?",
               "answers": {
@@ -1227,7 +1132,6 @@
             },
             {
               "id": "T2C04",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is RACES?",
               "answers": {
@@ -1239,7 +1143,6 @@
             },
             {
               "id": "T2C05",
-              "correct_answer": "A",
               "reference": "",
               "question": "What does the term “traffic” refer to in net operation?",
               "answers": {
@@ -1251,7 +1154,6 @@
             },
             {
               "id": "T2C06",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is the Amateur Radio Emergency Service (ARES)?",
               "answers": {
@@ -1263,7 +1165,6 @@
             },
             {
               "id": "T2C07",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following is standard practice when you participate in a net?",
               "answers": {
@@ -1275,7 +1176,6 @@
             },
             {
               "id": "T2C08",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which of the following relays messages using email addresses based on amateur callsigns?",
               "answers": {
@@ -1287,7 +1187,6 @@
             },
             {
               "id": "T2C09",
-              "correct_answer": "D",
               "reference": "",
               "question": "Are amateur station control operators ever permitted to operate outside the frequency privileges of their license class?",
               "answers": {
@@ -1299,7 +1198,6 @@
             },
             {
               "id": "T2C10",
-              "correct_answer": "D",
               "reference": "",
               "question": "What information is contained in the preamble of a formal traffic message?",
               "answers": {
@@ -1311,7 +1209,6 @@
             },
             {
               "id": "T2C11",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is meant by “check” in a radiogram header?",
               "answers": {
@@ -1323,7 +1220,6 @@
             },
             {
               "id": "T2C12",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which of the following requires certification by a civil defense agency?",
               "answers": {
@@ -1349,7 +1245,6 @@
           "questions": [
             {
               "id": "T3A01",
-              "correct_answer": "C",
               "reference": "",
               "question": "Why do VHF signal strengths sometimes vary greatly when the antenna is moved only a few feet?",
               "answers": {
@@ -1361,7 +1256,6 @@
             },
             {
               "id": "T3A02",
-              "correct_answer": "B",
               "reference": "",
               "question": "How does vegetation affect UHF and microwave signals?",
               "answers": {
@@ -1373,7 +1267,6 @@
             },
             {
               "id": "T3A03",
-              "correct_answer": "C",
               "reference": "",
               "question": "What antenna polarization is normally used for long-distance CW and SSB contacts on the VHF and UHF bands?",
               "answers": {
@@ -1385,7 +1278,6 @@
             },
             {
               "id": "T3A04",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is the effect of antenna cross-polarization over a line-of-sight VHF or UHF path?",
               "answers": {
@@ -1397,7 +1289,6 @@
             },
             {
               "id": "T3A05",
-              "correct_answer": "B",
               "reference": "",
               "question": "When using a directional antenna, how might your station be able to communicate with a distant repeater if buildings or obstructions are blocking the direct line of sight path?",
               "answers": {
@@ -1409,7 +1300,6 @@
             },
             {
               "id": "T3A06",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is the meaning of the term “picket fencing”?",
               "answers": {
@@ -1421,7 +1311,6 @@
             },
             {
               "id": "T3A07",
-              "correct_answer": "C",
               "reference": "",
               "question": "What weather condition might decrease range at microwave frequencies?",
               "answers": {
@@ -1433,7 +1322,6 @@
             },
             {
               "id": "T3A08",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is a likely cause of irregular fading of signals propagated by the ionosphere?",
               "answers": {
@@ -1445,7 +1333,6 @@
             },
             {
               "id": "T3A09",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which of the following results from the fact that signals propagated by the ionosphere are elliptically polarized?",
               "answers": {
@@ -1457,7 +1344,6 @@
             },
             {
               "id": "T3A10",
-              "correct_answer": "D",
               "reference": "",
               "question": "What effect does multi-path propagation have on data transmissions?",
               "answers": {
@@ -1469,7 +1355,6 @@
             },
             {
               "id": "T3A11",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which region of the atmosphere can reflect HF radio waves?",
               "answers": {
@@ -1481,7 +1366,6 @@
             },
             {
               "id": "T3A12",
-              "correct_answer": "B",
               "reference": "",
               "question": "What effect does fog or rain have on 10-meter and 6-meter band signals?",
               "answers": {
@@ -1501,7 +1385,6 @@
           "questions": [
             {
               "id": "T3B01",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is the relationship between the electric and magnetic fields of an electromagnetic wave?",
               "answers": {
@@ -1513,7 +1396,6 @@
             },
             {
               "id": "T3B02",
-              "correct_answer": "A",
               "reference": "",
               "question": "What property of a radio wave defines its polarization?",
               "answers": {
@@ -1525,7 +1407,6 @@
             },
             {
               "id": "T3B03",
-              "correct_answer": "C",
               "reference": "",
               "question": "What are the two components of a radio wave?",
               "answers": {
@@ -1537,7 +1418,6 @@
             },
             {
               "id": "T3B04",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is the velocity of a radio wave traveling through free space?",
               "answers": {
@@ -1549,7 +1429,6 @@
             },
             {
               "id": "T3B05",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is the relationship between wavelength and frequency?",
               "answers": {
@@ -1561,7 +1440,6 @@
             },
             {
               "id": "T3B06",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is the formula for converting frequency to approximate wavelength in meters?",
               "answers": {
@@ -1573,7 +1451,6 @@
             },
             {
               "id": "T3B07",
-              "correct_answer": "A",
               "reference": "",
               "question": "In addition to frequency, which of the following is used to identify amateur radio bands?",
               "answers": {
@@ -1585,7 +1462,6 @@
             },
             {
               "id": "T3B08",
-              "correct_answer": "B",
               "reference": "",
               "question": "What frequency range is referred to as VHF?",
               "answers": {
@@ -1597,7 +1473,6 @@
             },
             {
               "id": "T3B09",
-              "correct_answer": "D",
               "reference": "",
               "question": "What frequency range is referred to as UHF?",
               "answers": {
@@ -1609,7 +1484,6 @@
             },
             {
               "id": "T3B10",
-              "correct_answer": "C",
               "reference": "",
               "question": "What frequency range is referred to as HF?",
               "answers": {
@@ -1621,7 +1495,6 @@
             },
             {
               "id": "T3B11",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is the approximate velocity of a radio wave in free space?",
               "answers": {
@@ -1633,7 +1506,6 @@
             },
             {
               "id": "T3B12",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which of these frequencies travels at the highest velocity in free space?",
               "answers": {
@@ -1653,7 +1525,6 @@
           "questions": [
             {
               "id": "T3C01",
-              "correct_answer": "C",
               "reference": "",
               "question": "Why are simplex UHF signals rarely heard beyond their radio horizon?",
               "answers": {
@@ -1665,7 +1536,6 @@
             },
             {
               "id": "T3C02",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is a characteristic of HF communication compared with communications on VHF and higher frequencies?",
               "answers": {
@@ -1677,7 +1547,6 @@
             },
             {
               "id": "T3C03",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is one characteristic of VHF signals received via auroral backscatter?",
               "answers": {
@@ -1689,7 +1558,6 @@
             },
             {
               "id": "T3C04",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which of the following types of propagation is most commonly associated with occasional strong signals on the 10-, 6-, and 2-meter bands from beyond the radio horizon?",
               "answers": {
@@ -1701,7 +1569,6 @@
             },
             {
               "id": "T3C05",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which of the following effects may allow radio signals to travel beyond obstructions between the transmitting and receiving stations?",
               "answers": {
@@ -1713,7 +1580,6 @@
             },
             {
               "id": "T3C06",
-              "correct_answer": "A",
               "reference": "",
               "question": "What type of propagation is responsible for allowing over-the-horizon VHF and UHF communications to ranges of approximately 300 miles on a regular basis?",
               "answers": {
@@ -1725,7 +1591,6 @@
             },
             {
               "id": "T3C07",
-              "correct_answer": "B",
               "reference": "",
               "question": "What band is best suited for communicating via meteor scatter?",
               "answers": {
@@ -1737,7 +1602,6 @@
             },
             {
               "id": "T3C08",
-              "correct_answer": "D",
               "reference": "",
               "question": "What causes tropospheric ducting?",
               "answers": {
@@ -1749,7 +1613,6 @@
             },
             {
               "id": "T3C09",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is generally the best time for long-distance 10-meter band propagation via the F region?",
               "answers": {
@@ -1761,7 +1624,6 @@
             },
             {
               "id": "T3C10",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which of the following bands may provide long-distance communications via the ionosphere’s F region during the peak of the sunspot cycle?",
               "answers": {
@@ -1773,7 +1635,6 @@
             },
             {
               "id": "T3C11",
-              "correct_answer": "C",
               "reference": "",
               "question": "Why is the radio horizon for VHF and UHF signals more distant than the visual horizon?",
               "answers": {
@@ -1799,7 +1660,6 @@
           "questions": [
             {
               "id": "T4A01",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which of the following is an appropriate power supply rating for a typical 50-watt output mobile FM transceiver?",
               "answers": {
@@ -1811,7 +1671,6 @@
             },
             {
               "id": "T4A02",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which of the following should be considered when selecting an accessory SWR meter?",
               "answers": {
@@ -1823,7 +1682,6 @@
             },
             {
               "id": "T4A03",
-              "correct_answer": "A",
               "reference": "",
               "question": "Why are short, heavy-gauge wires used for a transceiver’s DC power connection?",
               "answers": {
@@ -1835,7 +1693,6 @@
             },
             {
               "id": "T4A04",
-              "correct_answer": "B",
               "reference": "",
               "question": "How are the audio input and output of a transceiver connected in a station configured to operate using FT8?",
               "answers": {
@@ -1847,7 +1704,6 @@
             },
             {
               "id": "T4A05",
-              "correct_answer": "A",
               "reference": "",
               "question": "Where should an RF power meter be installed?",
               "answers": {
@@ -1859,7 +1715,6 @@
             },
             {
               "id": "T4A06",
-              "correct_answer": "C",
               "reference": "",
               "question": "What signals are used in a computer-radio interface for digital mode operation?",
               "answers": {
@@ -1871,7 +1726,6 @@
             },
             {
               "id": "T4A07",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following is one of the connections required between a computer and a transceiver to operate digital modes?",
               "answers": {
@@ -1883,7 +1737,6 @@
             },
             {
               "id": "T4A08",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which of the following conductors is preferred for bonding at RF?",
               "answers": {
@@ -1895,7 +1748,6 @@
             },
             {
               "id": "T4A09",
-              "correct_answer": "B",
               "reference": "",
               "question": "How can you determine the length of time that equipment can be powered from a battery?",
               "answers": {
@@ -1907,7 +1759,6 @@
             },
             {
               "id": "T4A10",
-              "correct_answer": "A",
               "reference": "",
               "question": "What function does a digital mode hotspot perform for nearby transceivers?",
               "answers": {
@@ -1919,7 +1770,6 @@
             },
             {
               "id": "T4A11",
-              "correct_answer": "A",
               "reference": "",
               "question": "Where should the negative power return of a mobile transceiver be connected in a vehicle?",
               "answers": {
@@ -1931,7 +1781,6 @@
             },
             {
               "id": "T4A12",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is an electronic keyer?",
               "answers": {
@@ -1951,7 +1800,6 @@
           "questions": [
             {
               "id": "T4B01",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is the effect of excessive microphone gain on SSB transmissions?",
               "answers": {
@@ -1963,7 +1811,6 @@
             },
             {
               "id": "T4B02",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which of the following can be used to enter a transceiver’s operating frequency?",
               "answers": {
@@ -1975,7 +1822,6 @@
             },
             {
               "id": "T4B03",
-              "correct_answer": "A",
               "reference": "",
               "question": "How is squelch adjusted so that a weak FM signal can be heard?",
               "answers": {
@@ -1987,7 +1833,6 @@
             },
             {
               "id": "T4B04",
-              "correct_answer": "D",
               "reference": "",
               "question": "What does an FM signal sound like when received slightly off frequency?",
               "answers": {
@@ -1999,7 +1844,6 @@
             },
             {
               "id": "T4B05",
-              "correct_answer": "C",
               "reference": "",
               "question": "What does the scanning function of an FM transceiver do?",
               "answers": {
@@ -2011,7 +1855,6 @@
             },
             {
               "id": "T4B06",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which of the following controls could be used if the voice pitch of a single-sideband signal returning to your CQ call seems too high or low?",
               "answers": {
@@ -2023,7 +1866,6 @@
             },
             {
               "id": "T4B07",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is a DMR “code plug”?",
               "answers": {
@@ -2035,7 +1877,6 @@
             },
             {
               "id": "T4B08",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is the advantage of having a choice of receiver filter bandwidths in a multimode transceiver?",
               "answers": {
@@ -2047,7 +1888,6 @@
             },
             {
               "id": "T4B09",
-              "correct_answer": "C",
               "reference": "",
               "question": "How is a specific group of stations selected on a DMR digital voice transceiver?",
               "answers": {
@@ -2059,7 +1899,6 @@
             },
             {
               "id": "T4B10",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following receiver filter bandwidths provides the best signal-to-noise ratio for SSB reception?",
               "answers": {
@@ -2071,7 +1910,6 @@
             },
             {
               "id": "T4B11",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which of the following must be programmed into a D-STAR digital transceiver before transmitting?",
               "answers": {
@@ -2097,7 +1935,6 @@
           "questions": [
             {
               "id": "T5A01",
-              "correct_answer": "D",
               "reference": "",
               "question": "Electrical current is measured in which of the following units?",
               "answers": {
@@ -2109,7 +1946,6 @@
             },
             {
               "id": "T5A02",
-              "correct_answer": "B",
               "reference": "",
               "question": "Electrical power is measured in which of the following units?",
               "answers": {
@@ -2121,7 +1957,6 @@
             },
             {
               "id": "T5A03",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is the term for the flow of electrons in an electric circuit?",
               "answers": {
@@ -2133,7 +1968,6 @@
             },
             {
               "id": "T5A04",
-              "correct_answer": "C",
               "reference": "",
               "question": "What term describes the number of times per second that an alternating current makes a complete cycle?",
               "answers": {
@@ -2145,7 +1979,6 @@
             },
             {
               "id": "T5A05",
-              "correct_answer": "A",
               "reference": "",
               "question": "A difference in which of the following causes electron flow?",
               "answers": {
@@ -2157,7 +1990,6 @@
             },
             {
               "id": "T5A06",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is the unit of frequency?",
               "answers": {
@@ -2169,7 +2001,6 @@
             },
             {
               "id": "T5A07",
-              "correct_answer": "B",
               "reference": "",
               "question": "Why are metals generally good conductors of electricity?",
               "answers": {
@@ -2181,7 +2012,6 @@
             },
             {
               "id": "T5A08",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which of the following is a good electrical insulator?",
               "answers": {
@@ -2193,7 +2023,6 @@
             },
             {
               "id": "T5A09",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following describes alternating current?",
               "answers": {
@@ -2205,7 +2034,6 @@
             },
             {
               "id": "T5A10",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which term describes the rate at which electrical energy is used?",
               "answers": {
@@ -2217,7 +2045,6 @@
             },
             {
               "id": "T5A11",
-              "correct_answer": "D",
               "reference": "",
               "question": "What type of current flow is opposed by resistance?",
               "answers": {
@@ -2237,7 +2064,6 @@
           "questions": [
             {
               "id": "T5B01",
-              "correct_answer": "C",
               "reference": "",
               "question": "How many milliamperes is 1.5 amperes?",
               "answers": {
@@ -2249,7 +2075,6 @@
             },
             {
               "id": "T5B02",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which is equal to 1,500,000 hertz?",
               "answers": {
@@ -2261,7 +2086,6 @@
             },
             {
               "id": "T5B03",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which is equal to one kilovolt?",
               "answers": {
@@ -2273,7 +2097,6 @@
             },
             {
               "id": "T5B04",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which is equal to one microvolt?",
               "answers": {
@@ -2285,7 +2108,6 @@
             },
             {
               "id": "T5B05",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which is equal to 500 milliwatts?",
               "answers": {
@@ -2297,7 +2119,6 @@
             },
             {
               "id": "T5B06",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which is equal to 3000 milliamperes?",
               "answers": {
@@ -2309,7 +2130,6 @@
             },
             {
               "id": "T5B07",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which is equal to 3.525 MHz?",
               "answers": {
@@ -2321,7 +2141,6 @@
             },
             {
               "id": "T5B08",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which is equal to 1,000,000 picofarads?",
               "answers": {
@@ -2333,7 +2152,6 @@
             },
             {
               "id": "T5B09",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which decibel value most closely represents a power increase from 5 watts to 10 watts?",
               "answers": {
@@ -2345,7 +2163,6 @@
             },
             {
               "id": "T5B10",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which decibel value most closely represents a power decrease from 12 watts to 3 watts?",
               "answers": {
@@ -2357,7 +2174,6 @@
             },
             {
               "id": "T5B11",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which decibel value represents a power increase from 20 watts to 200 watts?",
               "answers": {
@@ -2369,7 +2185,6 @@
             },
             {
               "id": "T5B12",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which is equal to 28400 kHz?",
               "answers": {
@@ -2381,7 +2196,6 @@
             },
             {
               "id": "T5B13",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which is equal to 2425 MHz?",
               "answers": {
@@ -2401,7 +2215,6 @@
           "questions": [
             {
               "id": "T5C01",
-              "correct_answer": "D",
               "reference": "",
               "question": "What describes the ability to store energy in an electric field?",
               "answers": {
@@ -2413,7 +2226,6 @@
             },
             {
               "id": "T5C02",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is the unit of capacitance?",
               "answers": {
@@ -2425,7 +2237,6 @@
             },
             {
               "id": "T5C03",
-              "correct_answer": "D",
               "reference": "",
               "question": "What describes the ability to store energy in a magnetic field?",
               "answers": {
@@ -2437,7 +2248,6 @@
             },
             {
               "id": "T5C04",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is the unit of inductance?",
               "answers": {
@@ -2449,7 +2259,6 @@
             },
             {
               "id": "T5C05",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is the unit of impedance?",
               "answers": {
@@ -2461,7 +2270,6 @@
             },
             {
               "id": "T5C06",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is the abbreviation for kilohertz?",
               "answers": {
@@ -2473,7 +2281,6 @@
             },
             {
               "id": "T5C07",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is the abbreviation for megahertz?",
               "answers": {
@@ -2485,7 +2292,6 @@
             },
             {
               "id": "T5C08",
-              "correct_answer": "A",
               "reference": "",
               "question": "What formula is used to calculate electrical power (P) in a DC circuit?",
               "answers": {
@@ -2497,7 +2303,6 @@
             },
             {
               "id": "T5C09",
-              "correct_answer": "A",
               "reference": "",
               "question": "How much power is delivered by a voltage of 13.8 volts DC and a current of 10 amperes?",
               "answers": {
@@ -2509,7 +2314,6 @@
             },
             {
               "id": "T5C10",
-              "correct_answer": "B",
               "reference": "",
               "question": "How much power is delivered by a voltage of 12 volts DC and a current of 2.5 amperes?",
               "answers": {
@@ -2521,7 +2325,6 @@
             },
             {
               "id": "T5C11",
-              "correct_answer": "B",
               "reference": "",
               "question": "How much current is required to deliver 120 watts at a voltage of 12 volts DC?",
               "answers": {
@@ -2533,7 +2336,6 @@
             },
             {
               "id": "T5C12",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is impedance?",
               "answers": {
@@ -2553,7 +2355,6 @@
           "questions": [
             {
               "id": "T5D01",
-              "correct_answer": "B",
               "reference": "",
               "question": "What formula is used to calculate current in a circuit?",
               "answers": {
@@ -2565,7 +2366,6 @@
             },
             {
               "id": "T5D02",
-              "correct_answer": "A",
               "reference": "",
               "question": "What formula is used to calculate voltage in a circuit?",
               "answers": {
@@ -2577,7 +2377,6 @@
             },
             {
               "id": "T5D03",
-              "correct_answer": "B",
               "reference": "",
               "question": "What formula is used to calculate resistance in a circuit?",
               "answers": {
@@ -2589,7 +2388,6 @@
             },
             {
               "id": "T5D04",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is the resistance of a circuit in which a current of 3 amperes flows when connected to 90 volts?",
               "answers": {
@@ -2601,7 +2399,6 @@
             },
             {
               "id": "T5D05",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is the resistance of a circuit for which the applied voltage is 12 volts and the current flow is 1.5 amperes?",
               "answers": {
@@ -2613,7 +2410,6 @@
             },
             {
               "id": "T5D06",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is the resistance of a circuit that draws 4 amperes from a 12-volt source?",
               "answers": {
@@ -2625,7 +2421,6 @@
             },
             {
               "id": "T5D07",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is the current in a circuit with an applied voltage of 120 volts and a resistance of 80 ohms?",
               "answers": {
@@ -2637,7 +2432,6 @@
             },
             {
               "id": "T5D08",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is the current through a 100-ohm resistor connected across 200 volts?",
               "answers": {
@@ -2649,7 +2443,6 @@
             },
             {
               "id": "T5D09",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is the current through a 24-ohm resistor connected across 240 volts?",
               "answers": {
@@ -2661,7 +2454,6 @@
             },
             {
               "id": "T5D10",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is the voltage across a 2-ohm resistor if a current of 0.5 amperes flows through it?",
               "answers": {
@@ -2673,7 +2465,6 @@
             },
             {
               "id": "T5D11",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is the voltage across a 10-ohm resistor if a current of 1 ampere flows through it?",
               "answers": {
@@ -2685,7 +2476,6 @@
             },
             {
               "id": "T5D12",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is the voltage across a 10-ohm resistor if a current of 2 amperes flows through it?",
               "answers": {
@@ -2697,7 +2487,6 @@
             },
             {
               "id": "T5D13",
-              "correct_answer": "A",
               "reference": "",
               "question": "In which type of circuit is the current always the same through all components?",
               "answers": {
@@ -2709,7 +2498,6 @@
             },
             {
               "id": "T5D14",
-              "correct_answer": "B",
               "reference": "",
               "question": "In which type of circuit is the voltage always the same across all components?",
               "answers": {
@@ -2735,7 +2523,6 @@
           "questions": [
             {
               "id": "T6A01",
-              "correct_answer": "B",
               "reference": "",
               "question": "What electrical component opposes the flow of current in a DC circuit?",
               "answers": {
@@ -2747,7 +2534,6 @@
             },
             {
               "id": "T6A02",
-              "correct_answer": "C",
               "reference": "",
               "question": "What type of component is often used as an adjustable volume control?",
               "answers": {
@@ -2759,7 +2545,6 @@
             },
             {
               "id": "T6A03",
-              "correct_answer": "B",
               "reference": "",
               "question": "What electrical parameter is controlled by a potentiometer?",
               "answers": {
@@ -2771,7 +2556,6 @@
             },
             {
               "id": "T6A04",
-              "correct_answer": "B",
               "reference": "",
               "question": "What electrical component stores energy in an electric field?",
               "answers": {
@@ -2783,7 +2567,6 @@
             },
             {
               "id": "T6A05",
-              "correct_answer": "D",
               "reference": "",
               "question": "What type of electrical component consists of conductive surfaces separated by an insulator?",
               "answers": {
@@ -2795,7 +2578,6 @@
             },
             {
               "id": "T6A06",
-              "correct_answer": "C",
               "reference": "",
               "question": "What type of electrical component stores energy in a magnetic field?",
               "answers": {
@@ -2807,7 +2589,6 @@
             },
             {
               "id": "T6A07",
-              "correct_answer": "D",
               "reference": "",
               "question": "What electrical component is typically constructed as a coil of wire?",
               "answers": {
@@ -2819,7 +2600,6 @@
             },
             {
               "id": "T6A08",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is the function of an SPDT switch?",
               "answers": {
@@ -2831,7 +2611,6 @@
             },
             {
               "id": "T6A09",
-              "correct_answer": "A",
               "reference": "",
               "question": "What type of switch is represented by component 3 in figure T-2?",
               "answers": {
@@ -2843,7 +2622,6 @@
             },
             {
               "id": "T6A10",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which of the following battery chemistries is rechargeable?",
               "answers": {
@@ -2855,7 +2633,6 @@
             },
             {
               "id": "T6A11",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which of the following battery chemistries is not rechargeable?",
               "answers": {
@@ -2875,7 +2652,6 @@
           "questions": [
             {
               "id": "T6B01",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which is true about forward voltage drop in a diode?",
               "answers": {
@@ -2887,7 +2663,6 @@
             },
             {
               "id": "T6B02",
-              "correct_answer": "C",
               "reference": "",
               "question": "What electronic component allows current to flow in only one direction?",
               "answers": {
@@ -2899,7 +2674,6 @@
             },
             {
               "id": "T6B03",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of these components can be used as an electronic switch?",
               "answers": {
@@ -2911,7 +2685,6 @@
             },
             {
               "id": "T6B04",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which of the following components can consist of three regions of semiconductor material?",
               "answers": {
@@ -2923,7 +2696,6 @@
             },
             {
               "id": "T6B05",
-              "correct_answer": "B",
               "reference": "",
               "question": "What type of transistor has a gate, drain, and source?",
               "answers": {
@@ -2935,7 +2707,6 @@
             },
             {
               "id": "T6B06",
-              "correct_answer": "B",
               "reference": "",
               "question": "How is the cathode lead of a semiconductor diode often marked on the package?",
               "answers": {
@@ -2947,7 +2718,6 @@
             },
             {
               "id": "T6B07",
-              "correct_answer": "A",
               "reference": "",
               "question": "What causes a light-emitting diode (LED) to emit light?",
               "answers": {
@@ -2959,7 +2729,6 @@
             },
             {
               "id": "T6B08",
-              "correct_answer": "D",
               "reference": "",
               "question": "What does the abbreviation FET stand for?",
               "answers": {
@@ -2971,7 +2740,6 @@
             },
             {
               "id": "T6B09",
-              "correct_answer": "C",
               "reference": "",
               "question": "What are the names for the electrodes of a diode?",
               "answers": {
@@ -2983,7 +2751,6 @@
             },
             {
               "id": "T6B10",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which of the following can provide power gain?",
               "answers": {
@@ -2995,7 +2762,6 @@
             },
             {
               "id": "T6B11",
-              "correct_answer": "D",
               "reference": "",
               "question": "What does the term gain mean in amplifiers?",
               "answers": {
@@ -3007,7 +2773,6 @@
             },
             {
               "id": "T6B12",
-              "correct_answer": "B",
               "reference": "",
               "question": "What are the names of the electrodes of a bipolar junction transistor?",
               "answers": {
@@ -3027,7 +2792,6 @@
           "questions": [
             {
               "id": "T6C01",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is an electrical diagram using standard component symbols called?",
               "answers": {
@@ -3039,7 +2803,6 @@
             },
             {
               "id": "T6C02",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is component 1 in figure T-1?",
               "answers": {
@@ -3051,7 +2814,6 @@
             },
             {
               "id": "T6C03",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is component 2 in figure T-1?",
               "answers": {
@@ -3063,7 +2825,6 @@
             },
             {
               "id": "T6C04",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is component 3 in figure T-1?",
               "answers": {
@@ -3075,7 +2836,6 @@
             },
             {
               "id": "T6C05",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is component 4 in figure T-1?",
               "answers": {
@@ -3087,7 +2847,6 @@
             },
             {
               "id": "T6C06",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is component 6 in figure T-2?",
               "answers": {
@@ -3099,7 +2858,6 @@
             },
             {
               "id": "T6C07",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is component 8 in figure T-2?",
               "answers": {
@@ -3111,7 +2869,6 @@
             },
             {
               "id": "T6C08",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is component 9 in figure T-2?",
               "answers": {
@@ -3123,7 +2880,6 @@
             },
             {
               "id": "T6C09",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is component 4 in figure T-2?",
               "answers": {
@@ -3135,7 +2891,6 @@
             },
             {
               "id": "T6C10",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is component 3 in figure T-3?",
               "answers": {
@@ -3147,7 +2902,6 @@
             },
             {
               "id": "T6C11",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is component 4 in figure T-3?",
               "answers": {
@@ -3159,7 +2913,6 @@
             },
             {
               "id": "T6C12",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following is accurately represented in electrical schematics?",
               "answers": {
@@ -3179,7 +2932,6 @@
           "questions": [
             {
               "id": "T6D01",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which of the following devices or circuits changes an alternating current into a varying direct current signal?",
               "answers": {
@@ -3191,7 +2943,6 @@
             },
             {
               "id": "T6D02",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is a relay?",
               "answers": {
@@ -3203,7 +2954,6 @@
             },
             {
               "id": "T6D03",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following is a reason to use shielded wire?",
               "answers": {
@@ -3215,7 +2965,6 @@
             },
             {
               "id": "T6D04",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following displays an electrical quantity as a numeric value?",
               "answers": {
@@ -3227,7 +2976,6 @@
             },
             {
               "id": "T6D05",
-              "correct_answer": "A",
               "reference": "",
               "question": "What type of circuit controls the amount of voltage from a power supply?",
               "answers": {
@@ -3239,7 +2987,6 @@
             },
             {
               "id": "T6D06",
-              "correct_answer": "B",
               "reference": "",
               "question": "What component changes 120 V AC power to a lower AC voltage for other uses?",
               "answers": {
@@ -3251,7 +2998,6 @@
             },
             {
               "id": "T6D07",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which of the following is commonly used as a visual indicator?",
               "answers": {
@@ -3263,7 +3009,6 @@
             },
             {
               "id": "T6D08",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which of the following is combined with an inductor to make a resonant circuit?",
               "answers": {
@@ -3275,7 +3020,6 @@
             },
             {
               "id": "T6D09",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is the name of a device that combines several semiconductors and other components into one package?",
               "answers": {
@@ -3287,7 +3031,6 @@
             },
             {
               "id": "T6D10",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is the function of component 2 in figure T-1?",
               "answers": {
@@ -3299,7 +3042,6 @@
             },
             {
               "id": "T6D11",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which of the following is a resonant or tuned circuit?",
               "answers": {
@@ -3325,7 +3067,6 @@
           "questions": [
             {
               "id": "T7A01",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which term describes the ability of a receiver to detect the presence of a signal?",
               "answers": {
@@ -3337,7 +3078,6 @@
             },
             {
               "id": "T7A02",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is a transceiver?",
               "answers": {
@@ -3349,7 +3089,6 @@
             },
             {
               "id": "T7A03",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which of the following is used to convert a signal from one frequency to another?",
               "answers": {
@@ -3361,7 +3100,6 @@
             },
             {
               "id": "T7A04",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which term describes the ability of a receiver to discriminate between multiple signals?",
               "answers": {
@@ -3373,7 +3111,6 @@
             },
             {
               "id": "T7A05",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is the name of a circuit that generates a signal at a specific frequency?",
               "answers": {
@@ -3385,7 +3122,6 @@
             },
             {
               "id": "T7A06",
-              "correct_answer": "C",
               "reference": "",
               "question": "What device converts the RF input and output of a transceiver to another band?",
               "answers": {
@@ -3397,7 +3133,6 @@
             },
             {
               "id": "T7A07",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is the function of a transceiver’s PTT input?",
               "answers": {
@@ -3409,7 +3144,6 @@
             },
             {
               "id": "T7A08",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following describes combining speech with an RF carrier signal?",
               "answers": {
@@ -3421,7 +3155,6 @@
             },
             {
               "id": "T7A09",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is the function of the switch which selects either SSB or CW-FM on some VHF power amplifiers?",
               "answers": {
@@ -3433,7 +3166,6 @@
             },
             {
               "id": "T7A10",
-              "correct_answer": "B",
               "reference": "",
               "question": "What can be added to the output of a transceiver to increase the transmitted output power?",
               "answers": {
@@ -3445,7 +3177,6 @@
             },
             {
               "id": "T7A11",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is the function of the Variable Frequency Oscillator (VFO) circuit in a transceiver?",
               "answers": {
@@ -3465,7 +3196,6 @@
           "questions": [
             {
               "id": "T7B01",
-              "correct_answer": "D",
               "reference": "",
               "question": "What can you do if you are told your FM handheld or mobile transceiver is over-deviating?",
               "answers": {
@@ -3477,7 +3207,6 @@
             },
             {
               "id": "T7B02",
-              "correct_answer": "A",
               "reference": "",
               "question": "What would cause a broadcast AM or FM radio to receive an amateur radio transmission unintentionally?",
               "answers": {
@@ -3489,7 +3218,6 @@
             },
             {
               "id": "T7B03",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which of the following can cause radio frequency interference?",
               "answers": {
@@ -3501,7 +3229,6 @@
             },
             {
               "id": "T7B04",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which of the following might be the cause of low RF power output from a solid-state transceiver?",
               "answers": {
@@ -3513,7 +3240,6 @@
             },
             {
               "id": "T7B05",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which of the following might reduce interference by an amateur station to a non-amateur over-the-air radio receiver?",
               "answers": {
@@ -3525,7 +3251,6 @@
             },
             {
               "id": "T7B06",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which of the following actions should you take if a neighbor tells you that your station’s transmissions are interfering with their radio or TV reception?",
               "answers": {
@@ -3537,7 +3262,6 @@
             },
             {
               "id": "T7B07",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which of the following can reduce interference to a 2-meter band transceiver from a nearby commercial FM station?",
               "answers": {
@@ -3549,7 +3273,6 @@
             },
             {
               "id": "T7B08",
-              "correct_answer": "D",
               "reference": "",
               "question": "What should you do if something in a neighbor’s home is causing harmful interference to your amateur station?",
               "answers": {
@@ -3561,7 +3284,6 @@
             },
             {
               "id": "T7B09",
-              "correct_answer": "D",
               "reference": "",
               "question": "What should be the first step to resolve non-fiber optic cable TV interference caused by your amateur radio transmission?",
               "answers": {
@@ -3573,7 +3295,6 @@
             },
             {
               "id": "T7B10",
-              "correct_answer": "D",
               "reference": "",
               "question": "What might be a problem if you receive a report that your audio signal through an FM repeater is distorted or unintelligible?",
               "answers": {
@@ -3585,7 +3306,6 @@
             },
             {
               "id": "T7B11",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following can eliminate distorted voice transmissions?",
               "answers": {
@@ -3605,7 +3325,6 @@
           "questions": [
             {
               "id": "T7C01",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is the primary purpose of a dummy load?",
               "answers": {
@@ -3617,7 +3336,6 @@
             },
             {
               "id": "T7C02",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which of the following is used to determine if an antenna is resonant at the desired operating frequency?",
               "answers": {
@@ -3629,7 +3347,6 @@
             },
             {
               "id": "T7C03",
-              "correct_answer": "B",
               "reference": "",
               "question": "What does a typical RF dummy load consist of?",
               "answers": {
@@ -3641,7 +3358,6 @@
             },
             {
               "id": "T7C04",
-              "correct_answer": "C",
               "reference": "",
               "question": "What reading on an SWR meter indicates a perfect impedance match between the antenna and the feed line?",
               "answers": {
@@ -3653,7 +3369,6 @@
             },
             {
               "id": "T7C05",
-              "correct_answer": "A",
               "reference": "",
               "question": "Why do most solid-state transmitters reduce output power as SWR increases beyond a certain level?",
               "answers": {
@@ -3665,7 +3380,6 @@
             },
             {
               "id": "T7C06",
-              "correct_answer": "D",
               "reference": "",
               "question": "What does an SWR reading of 4:1 indicate?",
               "answers": {
@@ -3677,7 +3391,6 @@
             },
             {
               "id": "T7C07",
-              "correct_answer": "C",
               "reference": "",
               "question": "What happens to power lost in a feed line?",
               "answers": {
@@ -3689,7 +3402,6 @@
             },
             {
               "id": "T7C08",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which instrument can be used to determine SWR?",
               "answers": {
@@ -3701,7 +3413,6 @@
             },
             {
               "id": "T7C09",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which of the following causes failure of coaxial cables?",
               "answers": {
@@ -3713,7 +3424,6 @@
             },
             {
               "id": "T7C10",
-              "correct_answer": "D",
               "reference": "",
               "question": "Why should the outer jacket of coaxial cable be resistant to ultraviolet light?",
               "answers": {
@@ -3725,7 +3435,6 @@
             },
             {
               "id": "T7C11",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is an advantage of foam-dielectric versus solid-dielectric coaxial cable?",
               "answers": {
@@ -3745,7 +3454,6 @@
           "questions": [
             {
               "id": "T7D01",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which instrument would you use to measure electric potential?",
               "answers": {
@@ -3757,7 +3465,6 @@
             },
             {
               "id": "T7D02",
-              "correct_answer": "B",
               "reference": "",
               "question": "How is a voltmeter connected to a component to measure applied voltage?",
               "answers": {
@@ -3769,7 +3476,6 @@
             },
             {
               "id": "T7D03",
-              "correct_answer": "A",
               "reference": "",
               "question": "When configured to measure current, how is a multimeter connected to a component?",
               "answers": {
@@ -3781,7 +3487,6 @@
             },
             {
               "id": "T7D04",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which instrument is used to measure electric current?",
               "answers": {
@@ -3793,7 +3498,6 @@
             },
             {
               "id": "T7D05",
-              "correct_answer": "A",
               "reference": "",
               "question": "How does an ohmmeter measure the resistance of a circuit or component?",
               "answers": {
@@ -3805,7 +3509,6 @@
             },
             {
               "id": "T7D06",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following can damage a multimeter?",
               "answers": {
@@ -3817,7 +3520,6 @@
             },
             {
               "id": "T7D07",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following measurements are made using a multimeter?",
               "answers": {
@@ -3829,7 +3531,6 @@
             },
             {
               "id": "T7D08",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which of the following types of solder should not be used for radio and electronic applications?",
               "answers": {
@@ -3841,7 +3542,6 @@
             },
             {
               "id": "T7D09",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is the characteristic appearance of a cold tin-lead solder joint?",
               "answers": {
@@ -3853,7 +3553,6 @@
             },
             {
               "id": "T7D10",
-              "correct_answer": "A",
               "reference": "",
               "question": "What reading indicates that an ohmmeter is connected across a large, discharged capacitor?",
               "answers": {
@@ -3865,7 +3564,6 @@
             },
             {
               "id": "T7D11",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which of the following precautions should be taken when measuring in-circuit resistance with an ohmmeter?",
               "answers": {
@@ -3891,7 +3589,6 @@
           "questions": [
             {
               "id": "T8A01",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following is a form of amplitude modulation?",
               "answers": {
@@ -3903,7 +3600,6 @@
             },
             {
               "id": "T8A02",
-              "correct_answer": "A",
               "reference": "",
               "question": "What type of modulation is commonly used for VHF packet radio transmissions?",
               "answers": {
@@ -3915,7 +3611,6 @@
             },
             {
               "id": "T8A03",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which type of voice mode is often used for long-distance (weak signal) contacts on the VHF and UHF bands?",
               "answers": {
@@ -3927,7 +3622,6 @@
             },
             {
               "id": "T8A04",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which type of modulation is commonly used for VHF and UHF voice repeaters?",
               "answers": {
@@ -3939,7 +3633,6 @@
             },
             {
               "id": "T8A05",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following signal types has the narrowest bandwidth?",
               "answers": {
@@ -3951,7 +3644,6 @@
             },
             {
               "id": "T8A06",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which sideband is normally used for 10-meter HF, VHF, and UHF single-sideband communications?",
               "answers": {
@@ -3963,7 +3655,6 @@
             },
             {
               "id": "T8A07",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is one characteristic of single sideband (SSB) compared to FM?",
               "answers": {
@@ -3975,7 +3666,6 @@
             },
             {
               "id": "T8A08",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is the approximate bandwidth of a typical single sideband (SSB) voice signal?",
               "answers": {
@@ -3987,7 +3677,6 @@
             },
             {
               "id": "T8A09",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is the approximate bandwidth of an FM voice signal on VHF repeaters?",
               "answers": {
@@ -3999,7 +3688,6 @@
             },
             {
               "id": "T8A10",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is the approximate bandwidth of AM fast-scan TV transmissions?",
               "answers": {
@@ -4011,7 +3699,6 @@
             },
             {
               "id": "T8A11",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is the approximate bandwidth required to transmit a CW signal?",
               "answers": {
@@ -4023,7 +3710,6 @@
             },
             {
               "id": "T8A12",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which of the following is a disadvantage of FM compared with single sideband?",
               "answers": {
@@ -4043,7 +3729,6 @@
           "questions": [
             {
               "id": "T8B01",
-              "correct_answer": "C",
               "reference": "",
               "question": "What telemetry information is typically transmitted by satellite beacons?",
               "answers": {
@@ -4055,7 +3740,6 @@
             },
             {
               "id": "T8B02",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is the impact of using excessive effective radiated power on a satellite uplink?",
               "answers": {
@@ -4067,7 +3751,6 @@
             },
             {
               "id": "T8B03",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which of the following are provided by satellite tracking programs?",
               "answers": {
@@ -4079,7 +3762,6 @@
             },
             {
               "id": "T8B04",
-              "correct_answer": "D",
               "reference": "",
               "question": "What mode of transmission is commonly used by amateur radio satellites?",
               "answers": {
@@ -4091,7 +3773,6 @@
             },
             {
               "id": "T8B05",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is a satellite beacon?",
               "answers": {
@@ -4103,7 +3784,6 @@
             },
             {
               "id": "T8B06",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which of the following are inputs to a satellite tracking program?",
               "answers": {
@@ -4115,7 +3795,6 @@
             },
             {
               "id": "T8B07",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is Doppler shift in reference to satellite communications?",
               "answers": {
@@ -4127,7 +3806,6 @@
             },
             {
               "id": "T8B08",
-              "correct_answer": "B",
               "reference": "",
               "question": "What does it mean if a satellite is operating in U/V mode?",
               "answers": {
@@ -4139,7 +3817,6 @@
             },
             {
               "id": "T8B09",
-              "correct_answer": "B",
               "reference": "",
               "question": "What causes spin fading of satellite signals?",
               "answers": {
@@ -4151,7 +3828,6 @@
             },
             {
               "id": "T8B10",
-              "correct_answer": "D",
               "reference": "",
               "question": "What does the term LEO mean in reference to communication satellites?",
               "answers": {
@@ -4163,7 +3839,6 @@
             },
             {
               "id": "T8B11",
-              "correct_answer": "A",
               "reference": "",
               "question": "Who is permitted to receive telemetry from an amateur radio satellite?",
               "answers": {
@@ -4175,7 +3850,6 @@
             },
             {
               "id": "T8B12",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following is a way to determine whether your satellite uplink power into a linear transponder satellite is neither too low nor too high?",
               "answers": {
@@ -4195,7 +3869,6 @@
           "questions": [
             {
               "id": "T8C01",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following methods is used to locate sources of noise interference or jamming?",
               "answers": {
@@ -4207,7 +3880,6 @@
             },
             {
               "id": "T8C02",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which of these items would be useful for a hidden transmitter hunt?",
               "answers": {
@@ -4219,7 +3891,6 @@
             },
             {
               "id": "T8C03",
-              "correct_answer": "D",
               "reference": "",
               "question": "What operating activity involves contacting as many stations as possible during a specified period?",
               "answers": {
@@ -4231,7 +3902,6 @@
             },
             {
               "id": "T8C04",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following is good practice when contacting another station in a contest?",
               "answers": {
@@ -4243,7 +3913,6 @@
             },
             {
               "id": "T8C05",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is a grid locator?",
               "answers": {
@@ -4255,7 +3924,6 @@
             },
             {
               "id": "T8C06",
-              "correct_answer": "B",
               "reference": "",
               "question": "How is over the air access to Internet Radio Linking Project (IRLP) nodes accomplished?",
               "answers": {
@@ -4267,7 +3935,6 @@
             },
             {
               "id": "T8C07",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is Voice Over Internet Protocol (VoIP)?",
               "answers": {
@@ -4279,7 +3946,6 @@
             },
             {
               "id": "T8C08",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is the Internet Radio Linking Project (IRLP)?",
               "answers": {
@@ -4291,7 +3957,6 @@
             },
             {
               "id": "T8C09",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which of the following protocols enables an amateur station to transmit through a repeater without using a radio to initiate the transmission?",
               "answers": {
@@ -4303,7 +3968,6 @@
             },
             {
               "id": "T8C10",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is required before using the EchoLink system?",
               "answers": {
@@ -4315,7 +3979,6 @@
             },
             {
               "id": "T8C11",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is an amateur radio station that connects other amateur stations to the internet?",
               "answers": {
@@ -4335,7 +3998,6 @@
           "questions": [
             {
               "id": "T8D01",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which of the following is a digital communications mode?",
               "answers": {
@@ -4347,7 +4009,6 @@
             },
             {
               "id": "T8D02",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is FT8?",
               "answers": {
@@ -4359,7 +4020,6 @@
             },
             {
               "id": "T8D03",
-              "correct_answer": "D",
               "reference": "",
               "question": "What kind of data can be transmitted by APRS?",
               "answers": {
@@ -4371,7 +4031,6 @@
             },
             {
               "id": "T8D04",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is meant by the term \"NTSC?\"",
               "answers": {
@@ -4383,7 +4042,6 @@
             },
             {
               "id": "T8D05",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which of the following is an application of APRS?",
               "answers": {
@@ -4395,7 +4053,6 @@
             },
             {
               "id": "T8D06",
-              "correct_answer": "B",
               "reference": "",
               "question": "What does the abbreviation \"PSK\" mean?",
               "answers": {
@@ -4407,7 +4064,6 @@
             },
             {
               "id": "T8D07",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which of the following describes DMR?",
               "answers": {
@@ -4419,7 +4075,6 @@
             },
             {
               "id": "T8D08",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which of the following is included in packet radio transmissions?",
               "answers": {
@@ -4431,7 +4086,6 @@
             },
             {
               "id": "T8D09",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is CW?",
               "answers": {
@@ -4443,7 +4097,6 @@
             },
             {
               "id": "T8D10",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which of the following operating activities is supported by digital mode software in the WSJT-X software suite?",
               "answers": {
@@ -4455,7 +4108,6 @@
             },
             {
               "id": "T8D11",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is the role of ARQ in a transmission system?",
               "answers": {
@@ -4467,7 +4119,6 @@
             },
             {
               "id": "T8D12",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which of the following best describes an amateur radio mesh network?",
               "answers": {
@@ -4493,7 +4144,6 @@
           "questions": [
             {
               "id": "T9A01",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is a beam antenna?",
               "answers": {
@@ -4505,7 +4155,6 @@
             },
             {
               "id": "T9A02",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which of the following describes a type of antenna loading?",
               "answers": {
@@ -4517,7 +4166,6 @@
             },
             {
               "id": "T9A03",
-              "correct_answer": "B",
               "reference": "",
               "question": "How is the polarization of an antenna described?",
               "answers": {
@@ -4529,7 +4177,6 @@
             },
             {
               "id": "T9A04",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is a disadvantage of a handheld radio transceiver’s short flexible antenna compared to a full-sized quarter-wave antenna?",
               "answers": {
@@ -4541,7 +4188,6 @@
             },
             {
               "id": "T9A05",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following increases the resonant frequency of a dipole antenna?",
               "answers": {
@@ -4553,7 +4199,6 @@
             },
             {
               "id": "T9A06",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which of the following types of antennas offers the greatest gain?",
               "answers": {
@@ -4565,7 +4210,6 @@
             },
             {
               "id": "T9A07",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is a potential drawback of using a handheld VHF transceiver inside a vehicle that lacks an externally mounted antenna?",
               "answers": {
@@ -4577,7 +4221,6 @@
             },
             {
               "id": "T9A08",
-              "correct_answer": "C",
               "reference": "",
               "question": "Why is a 19-inch-long vertical antenna often used on 2 meters?",
               "answers": {
@@ -4589,7 +4232,6 @@
             },
             {
               "id": "T9A09",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is an advantage of a 5/8-wavelength whip antenna for VHF or UHF mobile service compared to a 1/4-wave antenna?",
               "answers": {
@@ -4601,7 +4243,6 @@
             },
             {
               "id": "T9A10",
-              "correct_answer": "D",
               "reference": "",
               "question": "In which direction does a half-wave dipole antenna radiate the strongest signal?",
               "answers": {
@@ -4613,7 +4254,6 @@
             },
             {
               "id": "T9A11",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is antenna gain?",
               "answers": {
@@ -4633,7 +4273,6 @@
           "questions": [
             {
               "id": "T9B01",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which of the following connectors should be carefully taped for weather protection when used outdoors?",
               "answers": {
@@ -4645,7 +4284,6 @@
             },
             {
               "id": "T9B02",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is the most common impedance of coaxial cables used in amateur radio?",
               "answers": {
@@ -4657,7 +4295,6 @@
             },
             {
               "id": "T9B03",
-              "correct_answer": "A",
               "reference": "",
               "question": "Why is coaxial cable the most common feed line for amateur radio antenna systems?",
               "answers": {
@@ -4669,7 +4306,6 @@
             },
             {
               "id": "T9B04",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is the major function of an antenna tuner (antenna coupler)?",
               "answers": {
@@ -4681,7 +4317,6 @@
             },
             {
               "id": "T9B05",
-              "correct_answer": "D",
               "reference": "",
               "question": "What happens as the frequency of a signal in coaxial cable is increased?",
               "answers": {
@@ -4693,7 +4328,6 @@
             },
             {
               "id": "T9B06",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which of the following connector types is most suitable as an RF connector for frequencies above 400 MHz?",
               "answers": {
@@ -4705,7 +4339,6 @@
             },
             {
               "id": "T9B07",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following is true of PL-259 type coax connectors?",
               "answers": {
@@ -4717,7 +4350,6 @@
             },
             {
               "id": "T9B08",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which of the following is a source of loss in coaxial feed line?",
               "answers": {
@@ -4729,7 +4361,6 @@
             },
             {
               "id": "T9B09",
-              "correct_answer": "B",
               "reference": "",
               "question": "What can cause erratic changes in SWR?",
               "answers": {
@@ -4741,7 +4372,6 @@
             },
             {
               "id": "T9B10",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is the electrical difference between RG-58 and RG-213 coaxial cable?",
               "answers": {
@@ -4753,7 +4383,6 @@
             },
             {
               "id": "T9B11",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following types of feed line has the lowest loss?",
               "answers": {
@@ -4765,7 +4394,6 @@
             },
             {
               "id": "T9B12",
-              "correct_answer": "A",
               "reference": "",
               "question": "What is standing wave ratio (SWR)?",
               "answers": {
@@ -4791,7 +4419,6 @@
           "questions": [
             {
               "id": "T0A01",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which of the following is a safety hazard of a 12-volt storage battery that lacks internal protection circuitry?",
               "answers": {
@@ -4803,7 +4430,6 @@
             },
             {
               "id": "T0A02",
-              "correct_answer": "D",
               "reference": "",
               "question": "What health hazard is posed by electrical current flowing through the body?",
               "answers": {
@@ -4815,7 +4441,6 @@
             },
             {
               "id": "T0A03",
-              "correct_answer": "B",
               "reference": "",
               "question": "In the United States, what circuit does black wire insulation indicate in a three-wire 120 V AC cable?",
               "answers": {
@@ -4827,7 +4452,6 @@
             },
             {
               "id": "T0A04",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is the purpose of a fuse in an electrical circuit?",
               "answers": {
@@ -4839,7 +4463,6 @@
             },
             {
               "id": "T0A05",
-              "correct_answer": "C",
               "reference": "",
               "question": "Why should a 5-ampere fuse never be replaced with a 20-ampere fuse?",
               "answers": {
@@ -4851,7 +4474,6 @@
             },
             {
               "id": "T0A06",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is a good way to guard against electrical shock at your station?",
               "answers": {
@@ -4863,7 +4485,6 @@
             },
             {
               "id": "T0A07",
-              "correct_answer": "D",
               "reference": "",
               "question": "Where should a lightning arrester be installed in a coaxial feed line?",
               "answers": {
@@ -4875,7 +4496,6 @@
             },
             {
               "id": "T0A08",
-              "correct_answer": "A",
               "reference": "",
               "question": "Where should a fuse or circuit breaker be installed in a 120V AC power circuit?",
               "answers": {
@@ -4887,7 +4507,6 @@
             },
             {
               "id": "T0A09",
-              "correct_answer": "C",
               "reference": "",
               "question": "What should be done to all external ground rods or earth connections?",
               "answers": {
@@ -4899,7 +4518,6 @@
             },
             {
               "id": "T0A10",
-              "correct_answer": "A",
               "reference": "",
               "question": "What hazard exists when rapidly charging or discharging an unprotected battery?",
               "answers": {
@@ -4911,7 +4529,6 @@
             },
             {
               "id": "T0A11",
-              "correct_answer": "D",
               "reference": "",
               "question": "What hazard exists in a power supply immediately after turning it off?",
               "answers": {
@@ -4923,7 +4540,6 @@
             },
             {
               "id": "T0A12",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which of the following precautions should be taken when measuring high voltages with a voltmeter?",
               "answers": {
@@ -4943,7 +4559,6 @@
           "questions": [
             {
               "id": "T0B01",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following is good practice when installing ground wires on a tower for lightning protection?",
               "answers": {
@@ -4955,7 +4570,6 @@
             },
             {
               "id": "T0B02",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is required when climbing an antenna tower?",
               "answers": {
@@ -4967,7 +4581,6 @@
             },
             {
               "id": "T0B03",
-              "correct_answer": "D",
               "reference": "",
               "question": "Under what circumstances is it safe to climb a tower without a helper or observer?",
               "answers": {
@@ -4979,7 +4592,6 @@
             },
             {
               "id": "T0B04",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following is an important safety precaution to observe when putting up an antenna tower?",
               "answers": {
@@ -4991,7 +4603,6 @@
             },
             {
               "id": "T0B05",
-              "correct_answer": "B",
               "reference": "",
               "question": "What is the purpose of a safety wire through a turnbuckle used to tension guy lines?",
               "answers": {
@@ -5003,7 +4614,6 @@
             },
             {
               "id": "T0B06",
-              "correct_answer": "D",
               "reference": "",
               "question": "What is the minimum safe distance from a power line to allow when installing an antenna?",
               "answers": {
@@ -5015,7 +4625,6 @@
             },
             {
               "id": "T0B07",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following is an important safety rule to remember when using a crank-up tower?",
               "answers": {
@@ -5027,7 +4636,6 @@
             },
             {
               "id": "T0B08",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which is a proper grounding method for a tower?",
               "answers": {
@@ -5039,7 +4647,6 @@
             },
             {
               "id": "T0B09",
-              "correct_answer": "C",
               "reference": "",
               "question": "Why should you avoid attaching an antenna to a utility pole?",
               "answers": {
@@ -5051,7 +4658,6 @@
             },
             {
               "id": "T0B10",
-              "correct_answer": "C",
               "reference": "",
               "question": "Which of the following is true when installing grounding conductors used for lightning protection?",
               "answers": {
@@ -5063,7 +4669,6 @@
             },
             {
               "id": "T0B11",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which of the following establishes grounding requirements for an amateur radio tower or antenna?",
               "answers": {
@@ -5083,7 +4688,6 @@
           "questions": [
             {
               "id": "T0C01",
-              "correct_answer": "D",
               "reference": "",
               "question": "What type of radiation are radio signals?",
               "answers": {
@@ -5095,7 +4699,6 @@
             },
             {
               "id": "T0C02",
-              "correct_answer": "B",
               "reference": "",
               "question": "Which of the following bands has the lowest maximum permissible exposure for RF safety?",
               "answers": {
@@ -5107,7 +4710,6 @@
             },
             {
               "id": "T0C03",
-              "correct_answer": "C",
               "reference": "",
               "question": "How does the allowable power density for RF safety change if duty cycle changes from 100 percent to 50 percent?",
               "answers": {
@@ -5119,7 +4721,6 @@
             },
             {
               "id": "T0C04",
-              "correct_answer": "D",
               "reference": "",
               "question": "What factors affect the RF exposure of people near an amateur station antenna?",
               "answers": {
@@ -5131,7 +4732,6 @@
             },
             {
               "id": "T0C05",
-              "correct_answer": "D",
               "reference": "",
               "question": "Why do exposure limits vary with frequency?",
               "answers": {
@@ -5143,7 +4743,6 @@
             },
             {
               "id": "T0C06",
-              "correct_answer": "D",
               "reference": "",
               "question": "Which of the following is an acceptable method to determine whether your station complies with FCC RF exposure regulations?",
               "answers": {
@@ -5155,7 +4754,6 @@
             },
             {
               "id": "T0C07",
-              "correct_answer": "B",
               "reference": "",
               "question": "What hazard is created by touching an antenna during a transmission?",
               "answers": {
@@ -5167,7 +4765,6 @@
             },
             {
               "id": "T0C08",
-              "correct_answer": "A",
               "reference": "",
               "question": "Which of the following actions can reduce exposure to RF radiation?",
               "answers": {
@@ -5179,7 +4776,6 @@
             },
             {
               "id": "T0C09",
-              "correct_answer": "B",
               "reference": "",
               "question": "How can you make sure your station stays in compliance with RF safety regulations?",
               "answers": {
@@ -5191,7 +4787,6 @@
             },
             {
               "id": "T0C10",
-              "correct_answer": "A",
               "reference": "",
               "question": "Why is duty cycle one of the factors used to determine safe RF radiation exposure levels?",
               "answers": {
@@ -5203,7 +4798,6 @@
             },
             {
               "id": "T0C11",
-              "correct_answer": "C",
               "reference": "",
               "question": "What is the definition of duty cycle during the averaging time for RF exposure?",
               "answers": {
@@ -5215,7 +4809,6 @@
             },
             {
               "id": "T0C12",
-              "correct_answer": "A",
               "reference": "",
               "question": "How does RF radiation differ from ionizing radiation (radioactivity)?",
               "answers": {
@@ -5227,7 +4820,6 @@
             },
             {
               "id": "T0C13",
-              "correct_answer": "B",
               "reference": "",
               "question": "Who is responsible for ensuring that no person is exposed to RF energy above the FCC exposure limits?",
               "answers": {
